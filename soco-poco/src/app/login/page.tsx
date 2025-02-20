@@ -1,10 +1,10 @@
-import LandingPage from '@/components/LandingPage/LandingPage'
+import LoginPage from '@/components/Login/Login'
 import React from 'react'
 
 function page() {
   return (
     <div>
-      <LandingPage/>
+      <LoginPage/>
     </div>
   )
 }
